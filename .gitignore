@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+.coverage
+*.hwpx
+*.hwp
+*.pdf
+*.png
+*.jpg
+*.sql
+*.sqlite*
+.env*
